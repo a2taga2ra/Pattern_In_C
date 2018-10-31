@@ -5,4 +5,4 @@
 ### For contributors
 
 - Contributors can create a new issue for adding more patterns.
-- For begginers, a bug fix or typo correction is just fine!
+- For beginners, a bug fix or typo correction is just fine!
